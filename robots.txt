@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ernesto-pro.github.io/chefeminhaziri/sitemap.xml

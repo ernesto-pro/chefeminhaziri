@@ -1,0 +1,24 @@
+{
+  "name": "Emin Haziri — Chef stellato a Milano",
+  "short_name": "Emin Haziri",
+  "description": "Chef stellato a Milano, consulenza gastronomica per ristoranti e hotel, collaborazioni con i brand.",
+  "lang": "it",
+  "start_url": "/chefeminhaziri/",
+  "scope": "/chefeminhaziri/",
+  "display": "standalone",
+  "background_color": "#0c0c0d",
+  "theme_color": "#0c0c0d",
+  "icons": [
+    {
+      "src": "/chefeminhaziri/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/chefeminhaziri/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
