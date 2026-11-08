@@ -4,36 +4,36 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
   <url>
-    <loc>https://ernesto-pro.github.io/chefeminhaziri/</loc>
+    <loc>https://chefeminhaziri.pages.dev/</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://ernesto-pro.github.io/chefeminhaziri/assets/img/hero.webp</image:loc>
+      <image:loc>https://chefeminhaziri.pages.dev/assets/img/hero.webp</image:loc>
       <image:title>Emin Haziri, chef stellato a Milano</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://ernesto-pro.github.io/chefeminhaziri/assets/img/procaccini-interior.webp</image:loc>
+      <image:loc>https://chefeminhaziri.pages.dev/assets/img/procaccini-interior.webp</image:loc>
       <image:title>Procaccini Milano, una Stella Michelin</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://ernesto-pro.github.io/chefeminhaziri/assets/img/plating.webp</image:loc>
+      <image:loc>https://chefeminhaziri.pages.dev/assets/img/plating.webp</image:loc>
       <image:title>Plating di Emin Haziri</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://ernesto-pro.github.io/chefeminhaziri/assets/img/panettone.webp</image:loc>
+      <image:loc>https://chefeminhaziri.pages.dev/assets/img/panettone.webp</image:loc>
       <image:title>Panettone signature di Emin Haziri</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://ernesto-pro.github.io/chefeminhaziri/assets/img/byd.webp</image:loc>
+      <image:loc>https://chefeminhaziri.pages.dev/assets/img/byd.webp</image:loc>
       <image:title>Emin Haziri brand ambassador BYD Italia</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://ernesto-pro.github.io/chefeminhaziri/assets/img/joressel.webp</image:loc>
+      <image:loc>https://chefeminhaziri.pages.dev/assets/img/joressel.webp</image:loc>
       <image:title>Jo Ressel Gin, co-creazione con Emin Haziri</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://ernesto-pro.github.io/chefeminhaziri/og.jpg</image:loc>
+      <image:loc>https://chefeminhaziri.pages.dev/og.jpg</image:loc>
       <image:title>Emin Haziri — Chef stellato a Milano</image:title>
     </image:image>
   </url>
